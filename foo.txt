@@ -1,4 +1,8 @@
 A
 B
+<<<<<<< HEAD
 C
 D
+=======
+E
+>>>>>>> new-branch-2
